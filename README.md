@@ -1,6 +1,6 @@
 Git command exercise
 
-- git add &ltfile&gt
+- git add `<file>`
 
 use `git add <file>` to add files
 
